@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CeCu6
+_symmetry_space_group_name_H-M   P2_1/c
+_cell_length_a   5.02701100
+_cell_length_b   10.10434100
+_cell_length_c   8.06466072
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.98582617
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   14
+_chemical_formula_structural   CeCu6
+_chemical_formula_sum   'Ce4 Cu24'
+_cell_volume   409.58084983
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+  2  '-x, -y, -z'
+  3  '-x, y+1/2, -z+1/2'
+  4  'x, -y+1/2, z+1/2'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  4  0.25676200  0.56475000  0.25932500  1
+  Cu  Cu1  4  0.00715600  0.69022300  0.93721900  1
+  Cu  Cu2  4  0.23252300  0.09435900  0.06150300  1
+  Cu  Cu3  4  0.24800400  0.64348400  0.64642800  1
+  Cu  Cu4  4  0.24900500  0.24370300  0.81731100  1
+  Cu  Cu5  4  0.25018200  0.01580600  0.39964100  1
+  Cu  Cu6  4  0.49674700  0.69326800  0.93424900  1
