@@ -1,0 +1,619 @@
+compound,table_source,parameter_source_used,hamiltonian_family,schoenflies,site_symmetry_hm,zero_field_evals_shifted_meV,Eb_peak_meV,gap_at_peak_meV,crossing_type,n_transitions,n_detected_response_features,transitions_df
+CeRhIn5,Table 1: experimental_INS,analysis,tetragonal_D4_like,D4h,4/mmm,"0, 0, 6.99945, 6.99945, 23.9957, 23.9957",0.40008001600320064,0.10026255331528411,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.40008       1.154449        2.443177e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 1.437591        0.232425   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.352106              0.479267  direct_or_nearly_direct  "
+CeIrIn5,Table 1: experimental_INS,analysis,tetragonal_D4_like,D4h,4/mmm,"0, 0, 5.20818, 5.20818, 29.3881, 29.3881",0.20004000800160032,0.13410290011120551,direct_or_nearly_direct,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       2.740328        1.225400e+08   
+1              2      2.00040       2.099441        9.388124e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         0.00000     0.000000                 1.501027        0.914719   
+1         1.80036     0.017487                 1.211219        0.764469   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.208397              0.143563  direct_or_nearly_direct  
+1               0.304915              1.862355                  avoided  "
+CeCoIn5,Table 1: experimental_INS,analysis,tetragonal_D4_like,D4h,4/mmm,"0, 0, 6.80556, 6.80556, 25.0148, 25.0148",0.20004000800160032,0.3680172126022949,direct_or_nearly_direct,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       5.078653        2.211459e+08   
+1              2      4.80096       2.370593        1.032256e+08   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         0.00000      0.00000                 2.217143        1.951887   
+1         4.60092      0.08141                 0.989990        0.938630   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.131397              0.083127  direct_or_nearly_direct  
+1               0.142922              4.712371                  avoided  "
+CeAuAl3,Table 1: experimental_INS,analysis,tetragonal_D4_like,C4v,4mm,"0, 0, 4.95952, 4.95952, 24.2725, 24.2725",13.802760552110422,0.014330418875236006,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1     6.601320       2.266789        1.344060e+07   
+1              2    13.802761       2.359700        1.399150e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0        6.401280     0.067382                 0.919008        0.903455   
+1       13.802761     0.014330                 0.959318        0.940720   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.136518              6.512687       avoided  
+1               0.125958             13.710212       avoided  "
+CeCoGe3,Table 1: experimental_INS,analysis,tetragonal_D4_like,C4v,4mm,"0, 0, 17.5084, 17.5084, 24.097, 24.097",0.20004000800160032,0.5254093051101556,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004        0.26575       556966.830411   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 0.292032        0.054293   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.295966              0.338642  direct_or_nearly_direct  "
+CeRhGe3,Table 1: experimental_INS,analysis,tetragonal_D4_like,C4v,4mm,"0, 0, 8.68449, 8.68449, 19.0649, 19.0649",0.20004000800160032,0.19985070913421232,direct_or_nearly_direct,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       2.795640        1.011783e+07   
+1              2      8.60172       2.035329        7.366152e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         0.00000     0.000000                 1.311449        1.061356   
+1         8.60172     0.058221                 0.887896        0.798435   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.123556              0.078378  direct_or_nearly_direct  
+1               0.191054              8.535779                  avoided  "
+CeIrGe3,Table 1: experimental_INS,analysis,tetragonal_D4_like,C4v,4mm,"0, 0, 9.71114, 9.71114, 20.8863, 20.8863",0.20004000800160032,0.2461262940566371,direct_or_nearly_direct,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       3.325529        1.088333e+07   
+1              2     10.80216       2.145737        7.022270e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         0.00000     0.000000                 1.492625        1.282618   
+1        10.80216     0.037184                 0.904685        0.848458   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.114914              0.074551  direct_or_nearly_direct  
+1               0.165765             10.724609                  avoided  "
+CePdAl3,Table 1: experimental_INS,analysis,tetragonal_D4_like,D2d,-4m2,"0, 0, 2.90658, 2.90658, 6.12037, 6.12037",0.20004000800160032,0.5930496229487807,direct_or_nearly_direct,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       7.427749        1.136540e+10   
+1              2      6.20124       2.497052        3.820809e+09   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0          0.0000     0.000000                 2.977162        2.969025   
+1          6.0012     0.062359                 0.999645        0.998873   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.095311              0.067054  direct_or_nearly_direct  
+1               0.100899              6.101429                  avoided  "
+CeIn3,Table 1: experimental_INS,analysis,cubic_B_Td_O_Oh_like,Oh,m-3m,"0, 0, 12, 12, 12, 12",0.20004000800160032,0.3327411034859731,direct_or_nearly_direct,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       4.490756        5.549861e+07   
+1              2      7.80156       2.315215        2.861238e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         0.00000     0.000000                 1.972783        1.736015   
+1         7.60152     0.052721                 0.961544        0.918310   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.122085              0.077972  direct_or_nearly_direct  
+1               0.146531              7.715837                  avoided  "
+CeB6,Table 1: experimental_INS,analysis,cubic_B_Td_O_Oh_like,Oh,m-3m,"0, 0, 1.77636e-15, 1.77636e-15, 46, 46",0.20004000800160032,0.2686309118085006,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.093328        83183.678027   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 0.104623        0.018995   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.294867              0.334723  direct_or_nearly_direct  "
+CeCu2Si2,Table 1: experimental_INS,analysis,tetragonal_D4_like,D4h,4/mmm,"0, 0, 29.2548, 29.2548, 29.3334, 29.3334",0.20004000800160032,0.6515506496508934,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.177886       312887.720841   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 0.194564        0.036421   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0                0.29446              0.333753  direct_or_nearly_direct  "
+CeCu2Ge2,Table 1: experimental_INS,analysis,tetragonal_D4_like,D4h,4/mmm,"0, 0, 17.0571, 17.0571, 18.2696, 18.2696",0.20004000800160032,0.7517595464547906,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004        0.22337        1.492077e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 0.223847        0.046852   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.289748              0.320479  direct_or_nearly_direct  "
+CePtSi3,Table 1: experimental_INS,analysis,tetragonal_D4_like,C4v,4mm,"0, 0, 4.11698, 4.11698, 23.9066, 23.9066",19.60392078415683,0.18622629865948426,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1     4.200840       2.474754        1.797685e+08   
+1              2    19.603921       2.493580        1.811361e+08   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0        4.200840     0.003574                 0.991602        0.989661   
+1       19.403881     0.013306                 0.998110        0.997528   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.104886              4.102125       avoided  
+1               0.100957             19.504140       avoided  "
+CeRhSi3,Table 1: experimental_INS,analysis,tetragonal_D4_like,C4v,4mm,"0, 0, 19.0738, 19.0738, 22.7398, 22.7398",2.2004400880176034,0.007929417906627378,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.477482        9.854967e+05   
+1              2      2.20044       0.601518        1.241500e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         0.00000     0.000000                 0.419286        0.128556   
+1         2.20044     0.007929                 0.701612        0.169867   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.227188              0.156302  direct_or_nearly_direct  
+1               0.444772              2.344036                  avoided  "
+CeIrSi3,Table 1: experimental_INS,analysis,tetragonal_D4_like,C4v,4mm,"0, 0, 12.8405, 12.8405, 39.848, 39.848",0.20004000800160032,0.014834097457271156,direct_or_nearly_direct,1,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.369029       246762.835224   
+1              2      4.20084       0.529006       353736.096606   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0          0.0000     0.000000                 0.286211        0.111314   
+1          4.0008     0.005316                 0.464537        0.171685   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV              crossing_type  
+0               0.160455              0.098162    direct_or_nearly_direct  
+1               0.387083              4.309781  no_discernible_transition  "
+Ce2CoIn8,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 2.89287, 2.89287, 16.6401, 16.6401",0.20004000800160032,0.7452229579589309,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.233543        1.603958e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 0.233416        0.049018   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.289663               0.32028  direct_or_nearly_direct  "
+Ce2IrIn8,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 2.91273, 2.91273, 15.6945, 15.6945",2.000400080016003,0.13202052295798872,avoided,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1       2.0004       4.306099        4.462106e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0          2.0004     0.132021                 1.792051        1.700505   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.182703              1.932962       avoided  "
+Ce2PdIn8,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 9.53291, 9.53291, 20.079, 20.079",5.801160232046409,0.2550087015313629,avoided,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      5.80116       4.783719        6.199615e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         5.60112     0.126452                 1.929038        1.909336   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0                0.12284              5.707876       avoided  "
+Ce2RhIn8,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 4.2603, 4.2603, 17.4691, 17.4691",2.8005601120224046,0.12856444144524914,avoided,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      2.80056       4.447222        4.253740e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         2.80056     0.128564                 1.828523        1.763817   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.163466              2.723391       avoided  "
+CeAuBi2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 61.7248, 61.7248, 74.8486, 74.8486",0.20004000800160032,0.9961674471870694,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.001254        35877.098647   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 0.001399        0.000256   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.293883              0.331735  direct_or_nearly_direct  "
+CeAuSb2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 7.88056, 7.88056, 23.9772, 23.9772",13.202640528105622,0.14794231525858592,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1     9.001800       2.418498        2.999846e+07   
+1              2    13.202641       2.424528        3.007327e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0        8.801760     0.071095                 0.971289        0.966558   
+1       13.002601     0.045461                 0.978764        0.968069   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.111987              8.905082       avoided  
+1               0.115184             13.106760       avoided  "
+CeCoSi3,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 38.7859, 38.7859, 44.2204, 44.2204",0.20004000800160032,0.9667186467381796,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.015941       136812.463986   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 0.017157        0.003282   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.292211              0.326926  direct_or_nearly_direct  "
+CeCuAl3,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 40.7819, 40.7819, 133.472, 133.472",89.61792358471695,0.09236883111111638,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    41.808362       2.479285        5.132207e+06   
+1              2    89.617924       2.487742        5.149712e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       41.808362     0.069563                 0.992108        0.991862   
+1       89.617924     0.092369                 0.995506        0.995252   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100703             41.708516       avoided  
+1               0.100482             89.518021       avoided  "
+CeCuSb2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 20.2323, 20.2323, 69.1436, 69.1436",47.60952190438088,0.05371660736071249,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    20.804161       2.481914        2.130642e+07   
+1              2    47.609522       2.490139        2.137703e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       20.604121     0.027841                 0.993293        0.992878   
+1       47.609522     0.053717                 0.996569        0.996188   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.101150             20.704432       avoided  
+1               0.100691             47.509673       avoided  "
+CeNiSb2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 320.743, 320.743, 394.204, 394.204",0.20004000800160032,0.996963973880213,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004         0.0002          375.646088   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 0.000236         0.00004   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0                0.29654              0.339601  direct_or_nearly_direct  "
+CeOsSi3,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 8.12658, 8.12658, 23.7948, 23.7948",10.002000400080016,0.0690673909459818,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1     10.00200       2.382883        1.929399e+07   
+1              2     10.40208       2.322034        1.880131e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0        10.40208     0.002966                 1.892536        0.951916   
+1        10.40208     0.002966                 1.901490        0.951916   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.231764             10.105041       avoided  
+1               0.244924             10.110486       avoided  "
+CePdSb2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 20.6481, 20.6481, 72.2314, 72.2314",50.41008201640328,0.17212242898402508,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    21.204241       2.482212        2.030195e+07   
+1              2    50.410082       2.490763        2.037188e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       21.004201     0.035634                 0.993397        0.993002   
+1       50.210042     0.027199                 0.996782        0.996446   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.101098             21.104498       avoided  
+1               0.100614             50.310213       avoided  "
+CeRuSi3,Table 2: PyCrystalField,pycf,tetragonal_D4_like,C4v,4mm,"0, 0, 8.62671, 8.62671, 25.703, 25.703",10.602120424084816,0.18467159878666095,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1     10.60212       2.387265        1.747309e+07   
+1              2     12.00240       2.350968        1.720742e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0        10.40208     0.005997                 0.959724        0.953817   
+1        11.80236     0.005067                 0.959298        0.936454   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.115017             10.506291       avoided  
+1               0.130006             11.911146       avoided  "
+CeAg2Si2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D4h,4/mmm,"0, 0, 36.2231, 36.2231, 110.547, 110.547",71.41428285657132,0.008383805430355551,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    37.207441       2.479264        6.957280e+06   
+1              2    71.414283       2.485881        6.975847e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       37.207441     0.069622                 0.992132        0.991846   
+1       71.414283     0.008384                 0.994857        0.994487   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100812             37.107624       avoided  
+1               0.100685             71.314432       avoided  "
+CeCo2Ge2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D4h,4/mmm,"0, 0, 66.7657, 66.7657, 185.321, 185.321",111.82236447289458,0.1470690095679288,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    69.213843       2.475242        2.110722e+06   
+1              2   111.822364       2.478788        2.113746e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       69.013803     0.017050                 0.990451        0.990255   
+1      111.622324     0.051293                 0.992010        0.991652   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100568             69.113962       avoided  
+1               0.100676            111.722512       avoided  "
+CeCo2Si2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D4h,4/mmm,"0, 0, 36.9353, 36.9353, 101.631, 101.631",60.412082416483294,0.18346538668055246,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    38.607722       2.471632        5.411512e+06   
+1              2    60.412082       2.474784        5.418413e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       38.407682     0.008207                 0.989172        0.988768   
+1       60.212042     0.014552                 0.990764        0.989975   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.101137             38.507988       avoided  
+1               0.101429             60.312423       avoided  "
+CeIrAl4Si2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D4h,4/mmm,"0, 0, 36.4349, 36.4349, 112.445, 112.445",73.21464292858572,0.04841660613720933,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    37.407481       2.479762        6.963645e+06   
+1              2    73.214643       2.486570        6.982763e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       37.407481     0.085997                 0.992323        0.992047   
+1       73.214643     0.048417                 0.995110        0.994768   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100784             37.307657       avoided  
+1               0.100637             73.114780       avoided  "
+CeNi2Ge2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D4h,4/mmm,"0, 0, 68.5228, 68.5228, 196.211, 196.211",121.22424484896979,0.002230205291539278,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    70.814163       2.476740        2.069768e+06   
+1              2   121.224245       2.481531        2.073772e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       70.614123     0.003484                 0.991035        0.990858   
+1      121.224245     0.002230                 0.993049        0.992762   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100514             70.714269       avoided  
+1               0.100547            121.124359       avoided  "
+CePd2Ge2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D4h,4/mmm,"0, 0, 65.8741, 65.8741, 196.05, 196.05",125.2250450090018,0.11003524380575413,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    67.613523       2.480369        2.522697e+06   
+1              2   125.225045       2.485969        2.528393e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       67.413483     0.065186                 0.992467        0.992315   
+1      125.025005     0.088910                 0.994760        0.994550   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100445             67.513611       avoided  
+1               0.100405            125.125123       avoided  "
+CePt2In7,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D4h,4/mmm,"0, 0, 5.43909, 5.43909, 18.602, 18.602",3.6007201440288057,0.35985191287482365,avoided,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      3.60072       4.563888        4.355117e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         3.40068     0.002046                 1.861469           1.815   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.148511               3.51696       avoided  "
+CeRh2Ge2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D4h,4/mmm,"0, 0, 66.2246, 66.2246, 189.187, 189.187",117.0234046809362,0.08740016241017656,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    68.213643       2.477482        2.285306e+06   
+1              2   117.023405       2.482196        2.289654e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       68.213643     0.034999                 0.991333        0.991155   
+1      117.023405     0.087400                 0.993314        0.993028   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100516             68.113749       avoided  
+1               0.100545            116.923518       avoided  "
+CeRh2Si2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D4h,4/mmm,"0, 0, 36.0981, 36.0981, 104.711, 104.711",65.2130426085217,0.08276860317700141,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    37.407481       2.476218        6.406806e+06   
+1              2    65.213043       2.481686        6.420952e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       37.207441     0.012200                 0.990954        0.990616   
+1       65.213043     0.082769                 0.993310        0.992782   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100953             37.307701       avoided  
+1               0.100967             65.113264       avoided  "
+CeRhAl4Si2,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D4h,4/mmm,"0, 0, 36.6615, 36.6615, 112.829, 112.829",73.41468293658731,0.16591388182135347,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    37.607522       2.479372        6.779897e+06   
+1              2    73.414683       2.486309        6.798866e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       37.607522     0.035035                  0.99217        0.991890   
+1       73.214643     0.033051                  0.99501        0.994662   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100796             37.507700       avoided  
+1               0.100648             73.314823       avoided  "
+CeFe2Al10,Table 2: PyCrystalField,pycf,rhombic_D2_like,C2v,m2m,"0, 0, 6.99694, 6.99694, 42.0399, 42.0399",3.6007201440288057,0.1625429630405435,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       2.924685        7.353917e+06   
+1              2      3.60072       3.026723        7.610484e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         0.00000      0.00000                 1.308832        1.119521   
+1         3.40068      0.06493                 1.369840        1.167925   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.128381              0.081347  direct_or_nearly_direct  
+1               0.192457              3.537776                  avoided  "
+CeI3,Table 2: PyCrystalField,pycf,rhombic_D2_like,C2v,m2m,"0, 0, 31.0015, 31.0015, 38.5381, 38.5381",0.40008001600320064,0.4642815590565199,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.40008       0.172058       131758.376675   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                  0.24026        0.034422   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.362581              0.504358  direct_or_nearly_direct  "
+CeIrSn,Table 2: PyCrystalField,pycf,rhombic_D2_like,C2v,m2m,"0, 0, 18.6762, 18.6762, 87.9998, 87.9998",6.00120024004801,0.06385407111958585,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.934916        8.443855e+05   
+1              2      6.00120       2.029516        1.832992e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0          0.0000     0.000000                 0.433901        0.357189   
+1          6.0012     0.063854                 1.096518        0.742679   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.112997              0.073783  direct_or_nearly_direct  
+1               0.345718              6.086461                  avoided  "
+CeNiAl4,Table 2: PyCrystalField,pycf,rhombic_D2_like,C2v,m2m,"0, 0, 57.2009, 57.2009, 63.3811, 63.3811",0.20004000800160032,0.054816104215177575,direct_or_nearly_direct,1,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1     0.200040       0.020817        9.422952e+04   
+1              2    26.405281       0.247152        1.118760e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0        0.000000     0.000000                 0.024472        0.004186   
+1       25.405081     3.785211                 0.482252        0.049492   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV              crossing_type  
+0               0.296162              0.338518    direct_or_nearly_direct  
+1               0.470259             26.333230  no_discernible_transition  "
+CePdAl,Table 2: PyCrystalField,pycf,rhombic_D2_like,C2v,m2m,"0, 0, 4.36417, 4.36417, 90.5328, 90.5328",0.20004000800160032,0.8855728850016042,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.222763       334092.695003   
+
+   Eb_gap_min_meV   gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0  3.552714e-15                  0.16815         0.05159   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.268735              0.268807  direct_or_nearly_direct  "
+CeRhSn,Table 2: PyCrystalField,pycf,rhombic_D2_like,C2v,m2m,"0, 0, 18.9454, 18.9454, 89.3639, 89.3639",5.801160232046409,0.0698697892261535,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.862341        7.384780e+05   
+1              2      5.80116       1.872690        1.603704e+06   
+
+   Eb_gap_min_meV   gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         0.00000  7.105427e-15                 0.406821        0.327615   
+1         5.60112  5.880524e-02                 1.035136        0.681295   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.115143              0.074688  direct_or_nearly_direct  
+1               0.353689              5.898455                  avoided  "
+CeRu2Al10,Table 2: PyCrystalField,pycf,rhombic_D2_like,C2v,m2m,"0, 0, 7.906, 7.906, 45.2922, 45.2922",0.20004000800160032,0.3163820354958311,direct_or_nearly_direct,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       4.000058        6.103267e+06   
+1              2      5.40108       3.466731        5.289520e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         0.00000     0.000000                 1.635216        1.591152   
+1         5.40108     0.092089                 1.423773        1.380542   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.095356              0.067046  direct_or_nearly_direct  
+1               0.137123              5.490266                  avoided  "
+CeInCu2,Table 2: PyCrystalField,pycf,cubic_B_Td_O_Oh_like,Oh,m-3m,"0, 0, 0, 0, 16.8732, 16.8732",0.20004000800160032,0.2718271498478888,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004        0.23985        1.543144e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 0.240921        0.050264   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.290015              0.321278  direct_or_nearly_direct  "
+CePd3,Table 2: PyCrystalField,pycf,cubic_B_Td_O_Oh_like,Oh,m-3m,"0, 0, 1.77636e-15, 1.77636e-15, 27.2387, 27.2387",0.20004000800160032,0.26992157746387235,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.153922        383975.41286   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                  0.16493        0.031698   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.293035              0.329537  direct_or_nearly_direct  "
+CeSn3,Table 2: PyCrystalField,pycf,cubic_B_Td_O_Oh_like,Oh,m-3m,"0, 0, 4.44089e-16, 8.88178e-16, 7.31238, 7.31238",0.20004000800160032,0.27803767431401294,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       9.568337        3.246593e+08   
+
+   Eb_gap_min_meV   gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0  4.440892e-16                 4.040549        3.740475   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.117221              0.075996  direct_or_nearly_direct  "
+CeCu5Ag,Table 2: PyCrystalField,pycf,monoclinic_general,Cs,m,"0, 7.10543e-15, 26.4907, 26.4907, 73.5757, 73.5757",46.60932186437287,0.10553067010144446,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    25.005001       2.102171        6.736064e+06   
+1              2    46.609322       2.245161        7.194250e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       25.005001     0.010899                 0.859566        0.837716   
+1       46.409282     0.073065                 0.911457        0.894696   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.120947             25.099193       avoided  
+1               0.137493             46.520986       avoided  "
+CeCu5Au,Table 2: PyCrystalField,pycf,monoclinic_general,Cs,m,"0, 1.42109e-14, 26.3548, 26.3548, 72.7568, 72.7568",45.80916183236647,0.00573520443818154,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    24.604921       2.073804        6.356041e+06   
+1              2    45.809162       2.221378        6.808342e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       24.804961     0.065745                 0.849608        0.826201   
+1       45.809162     0.005735                 0.903414        0.884786   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.120837             24.699178       avoided  
+1               0.141217             45.722214       avoided  "
+CeNiSn,Table 2: PyCrystalField,pycf,monoclinic_general,Cs,m,"0, 4.26326e-14, 70.5031, 70.5031, 90.952, 90.952",0.20004000800160032,0.940254429384062,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004        11.7566        5.237138e+06   
+
+   Eb_gap_min_meV   gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0  1.421085e-14                 4.709766        4.701973   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.094356              0.066699  direct_or_nearly_direct  "
+CeRuSn,Table 2: PyCrystalField,pycf,monoclinic_general,Cs,m,"0, 8.52651e-14, 146.812, 146.812, 266.284, 266.284",0.20004000800160032,0.9991911614683886,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.000114         1015.745692   
+
+   Eb_gap_min_meV   gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0  2.842171e-14                 0.000132        0.000023   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.295802              0.337391  direct_or_nearly_direct  "
+CeCo3B2,Table 2: PyCrystalField,pycf,hexagonal_D6_like,D6h,6/mmm,"0, 0, 89.0372, 89.0372, 354.345, 354.345",89.01780356071214,0.0194060192878851,avoided,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    89.017804         2.4995                 inf   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       89.017804     0.019406                      1.0             1.0   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0                0.10002             89.117824       avoided  "
+CeIr3B2,Table 2: PyCrystalField,pycf,hexagonal_D6_like,D6h,6/mmm,"0, 0, 73.3056, 73.3056, 277.81, 277.81",204.44088817763554,0.06389266236448066,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    73.414683         2.4995                 inf   
+1              2   204.440888         2.4995                 inf   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       73.214643     0.090948                      1.0             1.0   
+1      204.440888     0.063893                      1.0             1.0   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0                0.10002             73.314663       avoided  
+1                0.10002            204.540908       avoided  "
+CeRh3B2,Table 2: PyCrystalField,pycf,hexagonal_D6_like,D6h,6/mmm,"0, 0, 38.1566, 38.1566, 66.3683, 66.3683",0.600120024004801,3.0006001200240036,direct_or_nearly_direct,1,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.60012   8.881784e-16                 inf   
+1              2    256.05121   8.881784e-16                 inf   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         0.00000     0.000000                      0.0             0.0   
+1       255.05101   293.207589                      0.0             0.0   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV              crossing_type  
+0               0.219133               1.00020    direct_or_nearly_direct  
+1               0.432136             255.45109  no_discernible_transition  "
+CeCd3As3,Table 2: PyCrystalField,pycf,triclinic_general,C1,1,"0, 0.0150532, 35.6572, 35.6798, 47.4874, 47.495",0.20004000800160032,0.5843775147328216,avoided,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       7.599822        3.253839e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0     0.015053                 3.121668        3.018918   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.096199              0.067326       avoided  "
+CeCu6,Table 2: PyCrystalField,pycf,triclinic_general,C1,1,"0, 0.015643, 6.37816, 6.61315, 14.2198, 14.4391",7.001400280056012,0.07769028482960572,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      5.40108       1.291417        4.597565e+07   
+1              2      7.00140       1.638026        5.831524e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0         5.60112     0.022240                 0.743218        0.446193   
+1         6.80136     0.018887                 0.951085        0.549607   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.298968              5.364638       avoided  
+1               0.331314              7.079630       avoided  "
+CePtAl3,Table 2: PyCrystalField,pycf,tetragonal_D4_like,D2d,-4m2,"0, 0, 47.3614, 47.3614, 131.115, 131.115",74.61492298459692,0.16727350304932997,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    50.610122       2.455534        2.137990e+06   
+1              2    74.614923       2.456889        2.139169e+06   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       50.410082     0.055973                 0.982803        0.982310   
+1       74.414883     0.029295                 0.983860        0.982763   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.101397             50.510455       avoided  
+1               0.102000             74.515411       avoided  "
+Ce3Bi4Pd3,Table 2: PyCrystalField,pycf,tetragonal_C4_like,S4,-4,"0, 0, 38.6508, 38.6508, 101.774, 101.774",62.8125625125025,0.02146947391941012,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    38.807762       2.497455        7.282172e+07   
+1              2    62.812563       2.497764        7.283073e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       38.807762     0.046209                 0.999205        0.999176   
+1       62.812563     0.021469                 0.999350        0.999296   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100101             38.707762       avoided  
+1               0.100116             62.712567       avoided  "
+Ce3Bi4Pt3,Table 2: PyCrystalField,pycf,tetragonal_C4_like,S4,-4,"0, 0, 38.9201, 38.9201, 102.433, 102.433",63.212642528505704,0.03719076006177602,avoided,2,2,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    39.207842       2.497448        7.141052e+07   
+1              2    63.212643       2.497749        7.141913e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       39.007802     0.024643                 0.999202        0.999173   
+1       63.212643     0.037191                 0.999344        0.999290   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0               0.100101             39.107842       avoided  
+1               0.100116             63.112647       avoided  "
+CePdBi,Table 2: PyCrystalField,pycf,cubic_B_Td_O_Oh_like,Td,-43m,"0, 0, 1.77636e-15, 1.77636e-15, 22.8795, 22.8795",0.20004000800160032,0.27051748228072636,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004        3.51391        1.237010e+07   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 1.523597        1.370862   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.108957              0.072111  direct_or_nearly_direct  "
+CePtBi,Table 2: PyCrystalField,pycf,cubic_B_Td_O_Oh_like,Td,-43m,"0, 0, 0, 0, 23.043, 23.043",0.20004000800160032,0.27049115321015904,direct_or_nearly_direct,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1      0.20004       0.180045       624954.648474   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0             0.0          0.0                 0.189176        0.037271   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV            crossing_type  
+0               0.292168              0.327133  direct_or_nearly_direct  "
+CeAl3,Table 2: PyCrystalField,pycf,hexagonal_D6_like,D3h,-6m2,"0, 0, 28.2802, 28.2802, 77.9914, 77.9914",28.405681136227244,0.12545195622724492,avoided,1,1,"   transition_id  Eb_peak_meV  response_peak  peak_to_background  \
+0              1    28.405681         2.4995                 inf   
+
+   Eb_gap_min_meV  gap_min_meV  ground_mz_change_window  ground_mz_jump  \
+0       28.205641     0.074588                      1.0             1.0   
+
+   response_sigma_Eb_meV  response_mean_Eb_meV crossing_type  
+0                0.10002             28.305661       avoided  "
